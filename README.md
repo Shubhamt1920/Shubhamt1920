@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Shubhamt1920/Shubhamt1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on some realy cool projects in React.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning full-stack web development, advanced data structures & algorithms, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on open-source web projects, hackathons, and research in optimization or AI.
+
+🤔 I’m looking for help with improving algorithm efficiency and contributing to large-scale production-grade apps.
+
+💬 Ask me about React, Next.js, C++, optimization algorithms, or anything DSA-related.
+
+📫 How to reach me: [Your Email] | LinkedIn: [Your LinkedIn] | GitHub: [Your GitHub]
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I’ve solved over 300+ LeetCode problems and still get excited solving a new one like it’s a puzzle game!
+
