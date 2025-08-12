@@ -5,7 +5,7 @@
 <br>🤔 I’m looking for help with improving algorithm efficiency and contributing to large-scale production-grade apps.<br>
 <br>💬 Ask me about React, Next.js, C++, optimization algorithms, or anything DSA-related.<br>
 <br>📫 How to reach me: [Your Email] | LinkedIn: [Your LinkedIn] | GitHub: [Your GitHub]<br>
-<br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I’ve solved over 300+ LeetCode problems and still get excited solving a new one like it’s a puzzle game!
+<br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I’ve solved over 400+ LeetCode problems and still get excited solving a new one like it’s a puzzle game!
 
 
 ## 🌐 Socials:
